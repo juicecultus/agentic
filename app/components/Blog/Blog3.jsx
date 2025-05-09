@@ -24,7 +24,7 @@ const Blog3 = ({paddingTop}) => {
                             <div className="row">
                                 <div className="col-lg-6">
                                     
-                                    <div className="agenko-blog-item style-three mb-40 pf_fadeup">
+                                    <div className="pm-blog-item style-three mb-40 pf_fadeup">
                                         <div className="post-thumbnail">
                                             <img src="/assets/images/marketing-agency/blog/blog1.jpg" alt="Blog Image" />
                                         </div>
@@ -45,7 +45,7 @@ const Blog3 = ({paddingTop}) => {
                                 </div>
                                 <div className="col-lg-6">
                                     
-                                    <div className="agenko-blog-item style-three mb-40 pf_fadeup">
+                                    <div className="pm-blog-item style-three mb-40 pf_fadeup">
                                         <div className="post-thumbnail">
                                             <img src="/assets/images/marketing-agency/blog/blog2.jpg" alt="Blog Image" />
                                         </div>

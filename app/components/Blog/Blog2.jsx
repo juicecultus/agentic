@@ -41,7 +41,7 @@ const Blog2 = () => {
             <div className="row">
             {blogContent.map((item, i) => (
                 <div key={i} className="col-lg-12">
-                    <div className="agenko-blog-item style-one mb-40 pf_fadeup">
+                    <div className="pm-blog-item style-one mb-40 pf_fadeup">
                         <div className="post-hover-wrap bg_cover" data-background={item.img}>
                             <div className="agk-button">
                                 <Link href="/blog/blog-details" className="theme-btn style-one">

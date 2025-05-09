@@ -2,7 +2,7 @@ import React from 'react';
 
 const Pricing2 = () => {
     return (
-        <section className="agenko-pricing pt-130 pb-90">
+        <section className="pm-pricing pt-130 pb-90">
             <div className="container">
                 <div className="row">
                     <div className="col-lg-12">
@@ -14,7 +14,7 @@ const Pricing2 = () => {
                 </div>
                 <div className="row">
                     <div className="col-lg-4 col-md-6 col-sm-12">
-                        <div className="agenko-pricing-item style-three mb-40 pf_fadeup">
+                        <div className="pm-pricing-item style-three mb-40 pf_fadeup">
                             <div className="shape"><span></span></div>
                             <div className="pricing-head">
                                 <span className="plan">Basic</span>
@@ -36,7 +36,7 @@ const Pricing2 = () => {
                         </div>
                     </div>
                     <div className="col-lg-4 col-md-6 col-sm-12">
-                        <div className="agenko-pricing-item style-three mb-40 pf_fadeup">
+                        <div className="pm-pricing-item style-three mb-40 pf_fadeup">
                             <div className="shape"><span></span></div>
                             <div className="pricing-head">
                                 <span className="plan">Standard</span>
@@ -58,7 +58,7 @@ const Pricing2 = () => {
                         </div>
                     </div>
                     <div className="col-lg-4 col-md-6 col-sm-12">
-                        <div className="agenko-pricing-item style-three mb-40 pf_fadeup">
+                        <div className="pm-pricing-item style-three mb-40 pf_fadeup">
                             <div className="shape"><span></span></div>
                             <div className="pricing-head">
                                 <span className="plan">Basic</span>

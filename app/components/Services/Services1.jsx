@@ -25,7 +25,7 @@ const Services1 = () => {
                 <div className="row justify-content-center">
                     <div className="col-lg-4 col-md-6 col-sm-12">
                         
-                        <div className="agenko-iconic-box style-four pf_fadeup">
+                        <div className="pm-iconic-box style-four pf_fadeup">
                             <div className="icon">
                                 <i className="flaticon-web-developer"></i>
                             </div>
@@ -38,7 +38,7 @@ const Services1 = () => {
                     </div>
                     <div className="col-lg-4 col-md-6 col-sm-12">
                         
-                        <div className="agenko-iconic-box style-four pf_fadeup mt-60">
+                        <div className="pm-iconic-box style-four pf_fadeup mt-60">
                             <div className="icon">
                                 <i className="flaticon-web-developer"></i>
                             </div>
@@ -51,7 +51,7 @@ const Services1 = () => {
                     </div>
                     <div className="col-lg-4 col-md-6 col-sm-12">
                         
-                        <div className="agenko-iconic-box style-four pf_fadeup mt-120">
+                        <div className="pm-iconic-box style-four pf_fadeup mt-120">
                             <div className="icon">
                                 <i className="flaticon-web-developer"></i>
                             </div>

@@ -42,14 +42,14 @@ const Testimonial4 = () => {
       ]; 
 
     return (
-            <section className="agenko-testimonial-sec pt-120 pb-120 gray-dark">
+            <section className="pm-testimonial-sec pt-120 pb-120 gray-dark">
                 <div className="container">
                     
                     <div className="testimonial-slider-three pf_fadeup">
                         
                     <Slider {...settings}>
                     {testimonialContent.map((item, i) => (
-                        <div key={i} className="agenko-testimonial-item style-three text-center">
+                        <div key={i} className="pm-testimonial-item style-three text-center">
                             <div className="testimonial-content">
                                 <ul className="ratings">
                                 <li><i className="bi bi-star-fill"></i></li>

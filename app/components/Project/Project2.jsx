@@ -36,7 +36,7 @@ const Project2 = () => {
             <div className="row">
             {chooseContent.map((item, i) => (
                 <div key={i} className="col-lg-6">
-                    <div className="agenko-project-item style-one mb-45 pf_fadeup">
+                    <div className="pm-project-item style-one mb-45 pf_fadeup">
                         <div className="thumbnail">
                             <img src={item.img} alt="Project Image" />
                             <div className="project-button">

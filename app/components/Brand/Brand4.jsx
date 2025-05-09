@@ -11,7 +11,7 @@ const Brand4 = () => {
       ];
 
     return (
-        <section className="agenko-company pt-120 pb-90">
+        <section className="pm-company pt-120 pb-90">
             <div className="container">
                 <div className="row">
                     <div className="col-lg-12">
@@ -27,7 +27,7 @@ const Brand4 = () => {
                         
                         <div className="company-list d-flex flex-wrap justify-content-center">
                         {brandContent.map((item, i) => (
-                            <div key={i} className="agenko-client-item style-two mb-40 pf_fadeup">
+                            <div key={i} className="pm-client-item style-two mb-40 pf_fadeup">
                                 <div className="client-image">
                                     <img src={item.img} alt="Client Image" />
                                 </div>

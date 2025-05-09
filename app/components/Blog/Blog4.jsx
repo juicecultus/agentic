@@ -14,12 +14,12 @@ const Blog4 = () => {
 
 
     return (
-            <section className="agenko-blog-grid pt-130 pb-80">
+            <section className="pm-blog-grid pt-130 pb-80">
                 <div className="container">
                     <div className="row">
                     {blogContent.map((item, i) => (
                         <div key={i} className="col-xl-4 col-md-6 col-sm-12">
-                            <div className="agenko-blog-item style-four mb-40 pf_fadeup">
+                            <div className="pm-blog-item style-four mb-40 pf_fadeup">
                                 <div className="post-thumbnail">
                                     <img src={item.img} alt="Post Thumbnail" />
                                 </div>

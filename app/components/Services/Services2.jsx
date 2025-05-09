@@ -23,7 +23,7 @@ const Services2 = () => {
                             <div className="row">
                                 <div className="col-lg-12">
                                     
-                                    <div className="agenko-card-item style-one mb-30 pf_fadeup">
+                                    <div className="pm-card-item style-one mb-30 pf_fadeup">
                                         <div className="card-title">
                                             <div className="sn-number">01</div>
                                             <h3 className="title">Website Development</h3>
@@ -43,7 +43,7 @@ const Services2 = () => {
                                 </div>
                                 <div className="col-lg-12">
                                    
-                                    <div className="agenko-card-item style-one mb-30 pf_fadeup">
+                                    <div className="pm-card-item style-one mb-30 pf_fadeup">
                                         <div className="card-title">
                                             <div className="sn-number">02</div>
                                             <h3 className="title">E-commerce Solutions</h3>
@@ -63,7 +63,7 @@ const Services2 = () => {
                                 </div>
                                 <div className="col-lg-12">
                                    
-                                    <div className="agenko-card-item style-one mb-30 pf_fadeup">
+                                    <div className="pm-card-item style-one mb-30 pf_fadeup">
                                         <div className="card-title">
                                             <div className="sn-number">03</div>
                                             <h3 className="title">Branding & Identity Design</h3>

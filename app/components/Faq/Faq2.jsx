@@ -44,14 +44,14 @@ const Faq2 = () => {
         }, []);
 
     return (
-        <section className="agenko-faqs pt-130 pb-90">
+        <section className="pm-faqs pt-130 pb-90">
             <div className="container">
                 <div className="row">
                     <div className="col-lg-8">
                         
-                        <div className="agenko-accordion mb-30" id="accordionOne">
+                        <div className="pm-accordion mb-30" id="accordionOne">
                         {faqContent.map((item, index) => (
-                            <div key={index} className={`agenko-accordion-item mb-20 pf_fadeup ${index === openItemIndex ? "active" : "" }`} >
+                            <div key={index} className={`pm-accordion-item mb-20 pf_fadeup ${index === openItemIndex ? "active" : "" }`} >
                                 <div onClick={() => handleItemClick(index)} className="accordion-header">
                                     <h6 className="accordion-title" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true">
                                     {item.title}
@@ -73,7 +73,7 @@ const Faq2 = () => {
                                 <div className="widget-content">
                                     <h4 className="sidebar-title">Get In Touch</h4>
                                     <p className="mb-15">Contact for support inquiries & collaboration</p>
-                                    <form className="agenko-contact-form style-one">
+                                    <form className="pm-contact-form style-one">
                                         <div className="form-group">
                                             <input type="text" className="form_control" placeholder="Name" name="name" required />
                                         </div>

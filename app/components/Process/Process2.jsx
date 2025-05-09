@@ -23,7 +23,7 @@ const Process2 = () => {
                             <div className="row">
                                 <div className="col-xl-3 col-md-6 col-sm-12">
                                     
-                                    <div className="agenko-iconic-box style-two mb-40 pf_fadeup">
+                                    <div className="pm-iconic-box style-two mb-40 pf_fadeup">
                                         <div className="icon">
                                         <i className="bi bi-binoculars"></i>
                                         </div>
@@ -36,7 +36,7 @@ const Process2 = () => {
                                 </div>
                                 <div className="col-xl-3 col-md-6 col-sm-12">
                                     
-                                    <div className="agenko-iconic-box style-two mb-40 pf_fadeup">
+                                    <div className="pm-iconic-box style-two mb-40 pf_fadeup">
                                         <div className="icon">
                                         <i className="bi bi-binoculars"></i>
                                         </div>
@@ -49,7 +49,7 @@ const Process2 = () => {
                                 </div>
                                 <div className="col-xl-3 col-md-6 col-sm-12">
                                     
-                                    <div className="agenko-iconic-box style-two mb-40 pf_fadeup">
+                                    <div className="pm-iconic-box style-two mb-40 pf_fadeup">
                                         <div className="icon">
                                         <i className="bi bi-binoculars"></i>
                                         </div>
@@ -62,7 +62,7 @@ const Process2 = () => {
                                 </div>
                                 <div className="col-xl-3 col-md-6 col-sm-12">
                                     
-                                    <div className="agenko-iconic-box style-two mb-40 pf_fadeup">
+                                    <div className="pm-iconic-box style-two mb-40 pf_fadeup">
                                         <div className="icon">
                                         <i className="bi bi-binoculars"></i>
                                         </div>

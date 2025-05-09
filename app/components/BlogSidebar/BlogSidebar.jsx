@@ -11,7 +11,7 @@ const BlogSidebar = () => {
       ];   
 
     return (
-        <section className="agenko-blog-standard pt-130 pb-115">
+        <section className="pm-blog-standard pt-130 pb-115">
         <div className="container">
             <div className="row">
                 <div className="col-xl-8">
@@ -19,7 +19,7 @@ const BlogSidebar = () => {
                     <div className="blog-standard-wrapper">
                         
                     {blogContent.map((item, i) => (
-                        <div key={i} className="agenko-blog-item style-four mb-45 pf_fadeup">
+                        <div key={i} className="pm-blog-item style-four mb-45 pf_fadeup">
                             <div className="post-thumbnail">
                                 <img src={item.img} alt="Post Thumbnail" />
                             </div>
@@ -111,7 +111,7 @@ const BlogSidebar = () => {
                                     <a href="#">Modern</a>
                                     <a href="#">Digital</a>
                                     <a href="#">Minimal</a>
-                                    <a href="#">Agenko</a>
+                                    <a href="#">Parent Media</a>
                                     <a href="#">Business</a>
                                     <a href="#">Financial</a>
                                 </div>

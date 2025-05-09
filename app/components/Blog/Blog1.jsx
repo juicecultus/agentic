@@ -28,7 +28,7 @@ const Blog1 = () => {
                 <div className="row">
                     <div className="col-xl-6">
                        
-                        <div className="agenko-blog-item style-two mb-40 pf_fadeup">
+                        <div className="pm-blog-item style-two mb-40 pf_fadeup">
                             <div className="post-thumbnail">
                                 <img src="/assets/images/creative-agency/blog/blog1.jpg" alt="Blog Image" />
                             </div>
@@ -45,7 +45,7 @@ const Blog1 = () => {
                     </div>
                     <div className="col-xl-6">
                         
-                        <div className="agenko-blog-item style-two mb-40 pf_fadeup">
+                        <div className="pm-blog-item style-two mb-40 pf_fadeup">
                             <div className="post-thumbnail">
                                 <img src="/assets/images/creative-agency/blog/blog2.jpg" alt="Blog Image" />
                             </div>

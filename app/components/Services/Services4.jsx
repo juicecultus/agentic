@@ -25,7 +25,7 @@ const Services4 = () => {
                 <div class="row">
                     <div class="col-lg-12">
                     {serviceContent.map((item, i) => (
-                        <div key={i} class="agenko-card-item style-two mb-10 pf_fadeup">
+                        <div key={i} class="pm-card-item style-two mb-10 pf_fadeup">
                             <div class="thumbnail">
                                 <img src={item.img} alt="Card Image" />
                             </div>

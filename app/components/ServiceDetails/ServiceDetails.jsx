@@ -2,16 +2,16 @@ import React from 'react';
 
 const ServiceDetails = () => {
     return (
-        <section className="agenko-service-details pt-130 pb-80">
+        <section className="pm-service-details pt-130 pb-80">
         <div className="container">
             
             <div className="service-details-wrapper">
                 <div className="row">
                     <div className="col-lg-12">
                         
-                        <div className="agenko-iamge-box mb-70 pf_zoomIn">
-                            <div className="agenko-image">
-                                <img src="/assets/images/pages/service/single-service1.jpg" alt="Agenko Image" />
+                        <div className="pm-iamge-box mb-70 pf_zoomIn">
+                            <div className="pm-image">
+                                <img src="/assets/images/pages/service/single-service1.jpg" alt="Parent Media Image" />
                             </div>
                         </div>
                     </div>
@@ -19,14 +19,14 @@ const ServiceDetails = () => {
                 <div className="row">
                     <div className="col-lg-6">
                         
-                        <div className="agenko-content-box mb-50 pf_fadeup">
+                        <div className="pm-content-box mb-50 pf_fadeup">
                             <div className="section-title mb-40">
                                 <span className="sub-title">Description</span>
                                 <h2>Success Through Client Experiences</h2>
                             </div>
                             <div className="row">
                                 <div className="col-md-6">
-                                    <div className="agenko-counter-item">
+                                    <div className="pm-counter-item">
                                         <div className="content">
                                             <h2><span className="count">5000</span>+</h2>
                                             <p>Project Complete</p>
@@ -34,7 +34,7 @@ const ServiceDetails = () => {
                                     </div>
                                 </div>
                                 <div className="col-md-6">
-                                    <div className="agenko-counter-item">
+                                    <div className="pm-counter-item">
                                         <div className="content">
                                             <h2><span className="count">100</span>%</h2>
                                             <p>Satisfaction Clients</p>
@@ -45,7 +45,7 @@ const ServiceDetails = () => {
                         </div>
                     </div>
                     <div className="col-lg-6">
-                        <div className="agenko-content-box mb-50 pf_fadeup">
+                        <div className="pm-content-box mb-50 pf_fadeup">
                             <p className="mb-20">We offer a range of specialized services designed to address your unique business challenges. innovative strategies tailored solutions, our expertise ensures exceptional outcomes.</p>
                             <p className="mb-20">We offer a range of specialized services designed to address your unique business challenges. innovative strategies tailored </p>
                             <ul className="check-list style-one">

@@ -23,7 +23,7 @@ const WhoWeAre2 = () => {
                             <div className="row">
                                 <div className="col-lg-3 col-md-6 col-sm-12">
                                     
-                                    <div className="agenko-iconic-box style-seven mb-40 pf_fadeup">
+                                    <div className="pm-iconic-box style-seven mb-40 pf_fadeup">
                                         <div className="icon">
                                         <i className="bi bi-send"></i>
                                         </div>
@@ -35,7 +35,7 @@ const WhoWeAre2 = () => {
                                 </div>
                                 <div className="col-lg-3 col-md-6 col-sm-12">
                                     
-                                    <div className="agenko-iconic-box style-seven mb-40 pf_fadeup">
+                                    <div className="pm-iconic-box style-seven mb-40 pf_fadeup">
                                         <div className="icon">
                                         <i className="bi bi-send"></i>
                                         </div>
@@ -47,7 +47,7 @@ const WhoWeAre2 = () => {
                                 </div>
                                 <div className="col-lg-3 col-md-6 col-sm-12">
                                     
-                                    <div className="agenko-iconic-box style-seven mb-40 pf_fadeup">
+                                    <div className="pm-iconic-box style-seven mb-40 pf_fadeup">
                                         <div className="icon">
                                         <i className="bi bi-send"></i>
                                         </div>
@@ -59,7 +59,7 @@ const WhoWeAre2 = () => {
                                 </div>
                                 <div className="col-lg-3 col-md-6 col-sm-12">
                                     
-                                    <div className="agenko-iconic-box style-seven mb-40 pf_fadeup">
+                                    <div className="pm-iconic-box style-seven mb-40 pf_fadeup">
                                         <div className="icon">
                                         <i className="bi bi-send"></i>
                                         </div>

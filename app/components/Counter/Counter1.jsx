@@ -7,7 +7,7 @@ const Counter1 = () => {
                     <div className="row">
                         <div className="col-lg-3 col-md-6 col-6">
                             
-                            <div className="agenko-counter-box style-two text-center mb-40 pf_fadeup">
+                            <div className="pm-counter-box style-two text-center mb-40 pf_fadeup">
                                 <div className="content">
                                     <h2><span className="count">15</span>k+</h2>
                                     <p>Project Complete</p>
@@ -16,7 +16,7 @@ const Counter1 = () => {
                         </div>
                         <div className="col-lg-3 col-md-6 col-6">
                             
-                            <div className="agenko-counter-box style-two text-center mb-40 pf_fadeup">
+                            <div className="pm-counter-box style-two text-center mb-40 pf_fadeup">
                                 <div className="content">
                                     <h2><span className="count">28</span>+</h2>
                                     <p>Years Experience</p>
@@ -25,7 +25,7 @@ const Counter1 = () => {
                         </div>
                         <div className="col-lg-3 col-md-6 col-6">
                             
-                            <div className="agenko-counter-box style-two text-center mb-40 pf_fadeup">
+                            <div className="pm-counter-box style-two text-center mb-40 pf_fadeup">
                                 <div className="content">
                                     <h2><span className="count">30</span>+</h2>
                                     <p>Team Member</p>
@@ -34,7 +34,7 @@ const Counter1 = () => {
                         </div>
                         <div className="col-lg-3 col-md-6 col-6">
                             
-                            <div className="agenko-counter-box style-two text-center mb-40 pf_fadeup">
+                            <div className="pm-counter-box style-two text-center mb-40 pf_fadeup">
                                 <div className="content">
                                     <h2><span className="count">49</span>+</h2>
                                     <p>Awards Winning</p>

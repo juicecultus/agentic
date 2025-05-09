@@ -42,7 +42,7 @@ const Testimonial3 = () => {
       ]; 
 
     return (
-                    <section className="agenko-testimonial pt-130 pb-130">
+                    <section className="pm-testimonial pt-130 pb-130">
                         <div className="container">
                             <div className="row align-items-center">
                                 <div className="col-lg-6">
@@ -63,8 +63,8 @@ const Testimonial3 = () => {
                             <div className="row">
                                 <div className="col-lg-6">
                                     
-                                    <div className="agenko-image-box agenko-rotate-image mb-50 pf_fadeup">
-                                        <div className="agenko-image">
+                                    <div className="pm-image-box pm-rotate-image mb-50 pf_fadeup">
+                                        <div className="pm-image">
                                             <img src="/assets/images/marketing-agency/testimonial/testimonial1.jpg" alt="Testimonial" />
                                         </div>
                                     </div>
@@ -75,7 +75,7 @@ const Testimonial3 = () => {
 
                                     <Slider {...settings}>
                                     {testimonialContent.map((item, i) => (
-                                        <div key={i} className="agenko-testimonial-item style-three">
+                                        <div key={i} className="pm-testimonial-item style-three">
                                             <div className="testimonial-content">
                                                 <ul className="ratings">
                                                 <li><i className="bi bi-star-fill"></i></li>

@@ -2,13 +2,13 @@ import React from 'react';
 
 const BlogDetails = () => {
     return (
-            <section className="agenko-blog-detils pt-130 pb-100">
+            <section className="pm-blog-detils pt-130 pb-100">
                 <div className="container">
                     <div className="row">
                         <div className="col-xl-8">
                             
                             <div className="blog-details-wrapper">
-                                <div className="agenko-post-item pf_fadeup">
+                                <div className="pm-post-item pf_fadeup">
                                     <div className="main-post">
                                         <div className="post-thumbnail">
                                             <img src="/assets/images/pages/blog/blog-single1.jpg" alt="Blog Image" />
@@ -24,7 +24,7 @@ const BlogDetails = () => {
                                             <p>A versatile template crafted to narrate the journey of your project, detailing its origins, inspirations, and key influences. Functionality to enhance healthcare delivery, streamline processes, and improve patient engagement and satisfaction</p>
                                             <blockquote>
                                                 <div className="icon"><i className="flaticon-inverted-commas"></i></div>
-                                                <h4>Agenko Agency transformed our business with their innovative strategies and dedicated support. Their team understood </h4>
+                                                <h4>Parent Media Agency transformed our business with their innovative strategies and dedicated support. Their team understood </h4>
                                                 <div className="author-info">
                                                     <h4>Mr. David Liam</h4>
                                                     <h5>CEO & Founder</h5>
@@ -104,7 +104,7 @@ const BlogDetails = () => {
                                     </ul>
                                 </div>
                                 
-                                <div className="agenko-contact-form style-two mb-30 pf_fadeup">
+                                <div className="pm-contact-form style-two mb-30 pf_fadeup">
                                     <h3 className="comments-heading mb-25">Leave a Comments</h3>
                                     <form className="comment-form">
                                         <div className="row">
@@ -204,7 +204,7 @@ const BlogDetails = () => {
                                             <a href="#">Modern</a>
                                             <a href="#">Digital</a>
                                             <a href="#">Minimal</a>
-                                            <a href="#">Agenko</a>
+                                            <a href="#">Parent Media</a>
                                             <a href="#">Business</a>
                                             <a href="#">Financial</a>
                                         </div>

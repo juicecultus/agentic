@@ -34,7 +34,7 @@ const Brand2 = () => {
                                 <ul>
                                 {brandContent.map((item, i) => (
                                     <li key={i}>
-                                        <div className="agenko-client-item style-one">
+                                        <div className="pm-client-item style-one">
                                             <div className="client-image">
                                                 <img src={item.img} alt="client img" />
                                             </div>

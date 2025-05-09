@@ -4,7 +4,7 @@ import Link from 'next/link';
 const Cta1 = () => {
     return (
                 <section className="agk-cta">
-                        <div className="agenko-cta-wrappper gray-dark pt-40 pb-20">
+                        <div className="pm-cta-wrappper gray-dark pt-40 pb-20">
                             <div className="shape shape_one"><span></span></div>
                             <div className="shape shape_two"><span></span></div>
                             <div className="container">
@@ -18,7 +18,7 @@ const Cta1 = () => {
                                     </div>
                                     <div className="col-lg-6">
                                         
-                                        <div className="agenko-button float-lg-end mb-40 pf_fadeup">
+                                        <div className="pm-button float-lg-end mb-40 pf_fadeup">
                                             <Link href="/contact" className="theme-btn style-one">
                                                 <span className="text-flip">
                                                     <span className="text">Contact With Us</span>

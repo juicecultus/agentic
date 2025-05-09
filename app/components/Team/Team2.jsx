@@ -23,7 +23,7 @@ const Team2 = () => {
             <div className="row">
             {teamContent.map((item, i) => (
                 <div key={i} className="col-lg-3 col-md-6 col-sm-12">
-                    <div className="agenko-team-item style-two mb-40 pf_fadeup">
+                    <div className="pm-team-item style-two mb-40 pf_fadeup">
                         <div className="member-image">
                             <img src={item.img} alt="Team image" />
                             <div className="hover-content">

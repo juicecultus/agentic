@@ -14,7 +14,7 @@ const Team3 = () => {
       ];
 
     return (
-        <section className="agenko-team pt-130 pb-85">
+        <section className="pm-team pt-130 pb-85">
         <div className="container">
             <div className="row">
                 <div className="col-lg-12">
@@ -28,7 +28,7 @@ const Team3 = () => {
             <div className="row">
             {teamContent.map((item, i) => (
                 <div key={i} className="col-lg-3 col-md-6 col-sm-12">
-                    <div className="agenko-team-item style-four mb-35 pf_fadeup">
+                    <div className="pm-team-item style-four mb-35 pf_fadeup">
                         <div className="member-image">
                             <img src={item.img} alt="Member Image" />
                             <div className="hover-content">

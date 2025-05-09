@@ -4,7 +4,7 @@ const BreadCumb = ({Title,content}) => {
 
     return (
 
-        <section className="agenko-page-banner">
+        <section className="pm-page-banner">
         <div className="shape shape-circle1"><span></span></div>
         <div className="shape shape-circle2"><span></span></div>
         <div className="container">

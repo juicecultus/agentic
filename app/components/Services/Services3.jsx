@@ -24,7 +24,7 @@ const Services3 = () => {
             <div className="row">
                 <div className="col-lg-4 col-md-6 col-sm-12">
                     
-                    <div className="agenko-iconic-box style-six mb-40 pf_fadeup">
+                    <div className="pm-iconic-box style-six mb-40 pf_fadeup">
                         <div className="icon">
                         <i className="bi bi-router-fill"></i>
                         </div>
@@ -39,7 +39,7 @@ const Services3 = () => {
                 </div>
                 <div className="col-lg-4 col-md-6 col-sm-12">
                     
-                    <div className="agenko-iconic-box style-six mb-40 pf_fadeup">
+                    <div className="pm-iconic-box style-six mb-40 pf_fadeup">
                         <div className="icon">
                         <i className="bi bi-router-fill"></i>
                         </div>
@@ -54,7 +54,7 @@ const Services3 = () => {
                 </div>
                 <div className="col-lg-4 col-md-6 col-sm-12">
                     
-                    <div className="agenko-iconic-box style-six mb-40 pf_fadeup">
+                    <div className="pm-iconic-box style-six mb-40 pf_fadeup">
                         <div className="icon">
                         <i className="bi bi-router-fill"></i>
                         </div>

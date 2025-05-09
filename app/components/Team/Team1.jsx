@@ -35,7 +35,7 @@ const Team1 = () => {
                     <div className="row">
                     {teamContent.map((item, i) => (
                         <div key={i} className="col-lg-3 col-md-6 col-sm-12">
-                            <div className="agenko-team-item style-one mb-40 pf_fadeup">
+                            <div className="pm-team-item style-one mb-40 pf_fadeup">
                                 <div className="member-image">
                                     <img src={item.img} alt="Team Image" />
                                     <div className="icon-btn"><Link href="/team/team-details"><i className="bi bi-plus-lg"></i></Link></div>

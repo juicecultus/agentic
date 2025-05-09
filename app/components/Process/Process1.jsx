@@ -17,8 +17,8 @@ const Process1 = () => {
                 <div className="row">
                     <div className="col-lg-3 col-md-6 col-sm-12">
                         <div className="agk-process-box">
-                            <div className="agenko-step">Step 01</div>
-                            <div className="agenko-iconic-box style-five mb-40">
+                            <div className="pm-step">Step 01</div>
+                            <div className="pm-iconic-box style-five mb-40">
                                 <div className="icon">
                                     <i className="flaticon-search-user"></i>
                                 </div>
@@ -31,8 +31,8 @@ const Process1 = () => {
                     </div>
                     <div className="col-lg-3 col-md-6 col-sm-12">
                         <div className="agk-process-box">
-                            <div className="agenko-step">Step 02</div>
-                            <div className="agenko-iconic-box style-five mb-40">
+                            <div className="pm-step">Step 02</div>
+                            <div className="pm-iconic-box style-five mb-40">
                                 <div className="icon">
                                     <i className="flaticon-vector"></i>
                                 </div>
@@ -45,8 +45,8 @@ const Process1 = () => {
                     </div>
                     <div className="col-lg-3 col-md-6 col-sm-12">
                         <div className="agk-process-box">
-                            <div className="agenko-step">Step 03</div>
-                            <div className="agenko-iconic-box style-five mb-40">
+                            <div className="pm-step">Step 03</div>
+                            <div className="pm-iconic-box style-five mb-40">
                                 <div className="icon">
                                     <i className="flaticon-implementation"></i>
                                 </div>
@@ -59,8 +59,8 @@ const Process1 = () => {
                     </div>
                     <div className="col-lg-3 col-md-6 col-sm-12">
                         <div className="agk-process-box">
-                            <div className="agenko-step">Step 04</div>
-                            <div className="agenko-iconic-box style-five mb-40">
+                            <div className="pm-step">Step 04</div>
+                            <div className="pm-iconic-box style-five mb-40">
                                 <div className="icon">
                                     <i className="flaticon-exam"></i>
                                 </div>

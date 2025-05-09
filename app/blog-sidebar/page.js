@@ -1,2 +1,14 @@
-import BlogSidebarPage from '../../src/Pages/BlogSidebarPage';
-export default function BlogSidebar() { return <BlogSidebarPage />; }
+import BreadCumb from '../components/Common/BreadCumb';
+import BlogSidebar from '../components/BlogSidebar/BlogSidebar';
+
+export default function BlogSidebar() {
+    return (
+        <div>
+            <BreadCumb
+                Title="Blog Standard"
+                content="Parent Media empowers businesses with innovative strategies & creative agency solutions"
+            />
+            <BlogSidebar />
+        </div>
+    );
+}

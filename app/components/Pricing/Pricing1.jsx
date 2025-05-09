@@ -3,12 +3,12 @@ import Link from 'next/link';
 
 const Pricing1 = () => {
     return (
-            <section className="agenko-pricing pt-130">
+            <section className="pm-pricing pt-130">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6">
                             
-                            <div className="agenko-pricing-item style-one mb-20 pf_fadeup">
+                            <div className="pm-pricing-item style-one mb-20 pf_fadeup">
                                 <div className="shape shape-one"><span><img src="/assets/images/pages/shape/shape1.png" alt="shape" /></span></div>
                                 <div className="pricing-head">
                                     <span className="sub-title">Business</span>
@@ -34,7 +34,7 @@ const Pricing1 = () => {
                         </div>
                         <div className="col-lg-6">
                             
-                            <div className="agenko-pricing-item style-two mb-20 pf_fadeup">
+                            <div className="pm-pricing-item style-two mb-20 pf_fadeup">
                                 <div className="pricing-head">
                                     <h4>Basic</h4>
                                     <div className="pricing"><span className="sign">$</span>43/mo</div>
@@ -44,7 +44,7 @@ const Pricing1 = () => {
                                 </div>
                             </div>
                             
-                            <div className="agenko-pricing-item style-two mb-20 pf_fadeup">
+                            <div className="pm-pricing-item style-two mb-20 pf_fadeup">
                                 <div className="pricing-head">
                                     <h4>Standard</h4>
                                     <div className="pricing"><span className="sign">$</span>43/mo</div>
@@ -54,7 +54,7 @@ const Pricing1 = () => {
                                 </div>
                             </div>
                             
-                            <div className="agenko-pricing-item style-two mb-20 pf_fadeup">
+                            <div className="pm-pricing-item style-two mb-20 pf_fadeup">
                                 <div className="pricing-head">
                                     <h4>Premium</h4>
                                     <div className="pricing"><span className="sign">$</span>43/mo</div>

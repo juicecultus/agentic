@@ -10,15 +10,15 @@ const Process3 = () => {
       ];
 
     return (
-        <section className="agenko-process pt-130">
+        <section className="pm-process pt-130">
             <div className="container">
-                <div className="agenko-process-wrapper-two pf_fadeup">
+                <div className="pm-process-wrapper-two pf_fadeup">
                     <div className="process-line"></div>
                     <div className="row">
                     {processContent.map((item, i) => (
                         <div key={i} className="col-lg-3 col-md-6 col-sm-12">
-                            <div className="agenko-iconic-box style-eight mb-40">
-                                <span className="agenko-dot mb-20"></span>
+                            <div className="pm-iconic-box style-eight mb-40">
+                                <span className="pm-dot mb-20"></span>
                                 <div className="content">
                                     <span className="number">{item.number}</span>
                                     <h4 className="title">{item.title}</h4>

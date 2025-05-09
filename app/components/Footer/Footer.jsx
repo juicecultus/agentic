@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 const Footer = () => {
     return (
-            <footer className="agenko-footer gray-dark pt-130 primary-black-bg">
+            <footer className="pm-footer gray-dark pt-130 primary-black-bg">
                     <div className="shape shape-one"><span><img className="rotate360" src="/assets/images/creative-agency/footer/element1.png" alt="Shape" /></span></div>
                     <div className="shape shape-two"><span><img className="rotate360" src="/assets/images/creative-agency/footer/element2.png" alt="Shape" /></span></div>
                     <div className="shape shape-blur_one"><span></span></div>
@@ -19,7 +19,7 @@ const Footer = () => {
                                             <div className="footer-logo">
                                                 <a href="index.html"><img src="/assets/images/creative-agency/logo/logo-main.png" alt="Brand Logo" /></a>
                                             </div>
-                                            <p>Agenko creative digital agency delivering innovate web Development marketing.</p>
+                                            <p>Parent Media creative digital agency delivering innovate web Development marketing.</p>
                                             <form>
                                                 <div className="form-group">
                                                     <input type="email" className="form_control" placeholder="Email Address" name="email" required />
@@ -75,16 +75,16 @@ const Footer = () => {
                                             <div className="footer-widget footer-contact-widget mb-40 pf_fadeup">
                                                 <div className="footer-content">
                                                     <h4 className="widget-title">Contact</h4>
-                                                    <div className="agenko-iconic-box style-three mb-30">
+                                                    <div className="pm-iconic-box style-three mb-30">
                                                         <div className="icon">
                                                         <i className="bi bi-envelope"></i>
                                                         </div>
                                                         <div className="content">
                                                             <h6>Email</h6>
-                                                            <p><a href="mailto:info@agenko.com">info@agenko.com</a></p>
+                                                            <p><a href="mailto:info@Parent Media.com">info@Parent Media.com</a></p>
                                                         </div>
                                                     </div>
-                                                    <div className="agenko-iconic-box style-three">
+                                                    <div className="pm-iconic-box style-three">
                                                         <div className="icon">
                                                         <i className="bi bi-telephone"></i>
                                                         </div>
@@ -108,7 +108,7 @@ const Footer = () => {
                                 <div className="col-md-6">
                                    
                                     <div className="copyright-text">
-                                        <p>&copy; 2025 <span>Agenko</span> - All Rights Reserved.</p>
+                                        <p>&copy; 2025 <span>Parent Media</span> - All Rights Reserved.</p>
                                     </div>
                                 </div>
                                 <div className="col-md-6">

@@ -1,6 +1,6 @@
-import Home from './home/page';
+import HomePage from './home/page';
 
 export default function IndexPage() {
-  return <Home />;
+  return <HomePage />;
 }
 

@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 const ProjectCard1 = ({img,cat1,cat2,cat3,title,content}) => {
     return (
-        <div className="agenko-project-item style-two mb-60 pf_fadeup">
+        <div className="pm-project-item style-two mb-60 pf_fadeup">
         <div className="thumbnail">
             <img src={img} alt="Project Image" />
             <div className="hover-content">

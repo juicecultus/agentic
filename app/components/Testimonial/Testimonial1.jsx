@@ -70,7 +70,7 @@ const Testimonial1 = () => {
                                 <div className="testimonial-slider">
                                 <Slider {...settings}>
                                 {testimonialContent.map((item, i) => (
-                                    <div key={i} className="agenko-testimonial-item style-two">
+                                    <div key={i} className="pm-testimonial-item style-two">
                                         <div className="testimonial-content">
                                             <ul className="ratings">
                                                 <li><i className="bi bi-star-fill"></i></li>

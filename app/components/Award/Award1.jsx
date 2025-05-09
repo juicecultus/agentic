@@ -32,7 +32,7 @@ const Award1 = () => {
                    
                     <div className="award-list mb-30">
                         
-                        <div className="agenko-award-box style-one mb-20 pf_fadeup">
+                        <div className="pm-award-box style-one mb-20 pf_fadeup">
                             <div className="award-platform">
                                 <h5>Microsoft Platform</h5>
                             </div>
@@ -44,7 +44,7 @@ const Award1 = () => {
                             </div>
                         </div>
                         
-                        <div className="agenko-award-box style-one mb-20 pf_fadeup">
+                        <div className="pm-award-box style-one mb-20 pf_fadeup">
                             <div className="award-platform">
                                 <h5>LinkedIn Platform</h5>
                             </div>
@@ -56,7 +56,7 @@ const Award1 = () => {
                             </div>
                         </div>
                         
-                        <div className="agenko-award-box style-one mb-20 pf_fadeup">
+                        <div className="pm-award-box style-one mb-20 pf_fadeup">
                             <div className="award-platform">
                                 <h5>Adobe Platform</h5>
                             </div>
@@ -68,7 +68,7 @@ const Award1 = () => {
                             </div>
                         </div>
                         
-                        <div className="agenko-award-box style-one mb-20 pf_fadeup">
+                        <div className="pm-award-box style-one mb-20 pf_fadeup">
                             <div className="award-platform">
                                 <h5>Fiverr Platform</h5>
                             </div>
@@ -80,7 +80,7 @@ const Award1 = () => {
                             </div>
                         </div>
                         
-                        <div className="agenko-award-box style-one mb-20 pf_fadeup">
+                        <div className="pm-award-box style-one mb-20 pf_fadeup">
                             <div className="award-platform">
                                 <h5>Upwork Platform</h5>
                             </div>
@@ -92,7 +92,7 @@ const Award1 = () => {
                             </div>
                         </div>
                         
-                        <div className="agenko-award-box style-one mb-20 pf_fadeup">
+                        <div className="pm-award-box style-one mb-20 pf_fadeup">
                             <div className="award-platform">
                                 <h5>Upwork Platform</h5>
                             </div>

@@ -1,5 +1,5 @@
 {
-  "name": "agenko",
+  "name": "Parent Media",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,10 +14,10 @@
     "bootstrap-icons": "^1.11.3",
     "localforage": "^1.10.0",
     "match-sorter": "^8.0.0",
-    "react": "^18.2.0",
+    "next": "^15.3.2",
+    "react": "^19.1.0",
     "react-bootstrap": "^2.10.9",
-    "react-dom": "^18.2.0",
-
+    "react-dom": "^19.1.0",
     "react-slick": "^0.30.3",
     "slick-carousel": "^1.8.1",
     "sort-by": "^1.2.0"
@@ -28,7 +28,6 @@
     "@types/react-dom": "^18.2.19",
     "eslint": "^9.21.0",
     "eslint-plugin-react-hooks": "^5.1.0",
-    "globals": "^15.15.0",
-    "next": "^14.2.0"
+    "globals": "^15.15.0"
   }
 }

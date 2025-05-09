@@ -4,7 +4,7 @@ import ProjectCard3 from '../Card/ProjectCard3';
 
 const Project4 = () => {
     return (
-        <section className="agenko-project pt-130 pb-100">
+        <section className="pm-project pt-130 pb-100">
             <div className="container-fluid">
                 <div className="row">
                     <div className="col-lg-6">
