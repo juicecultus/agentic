@@ -1,7 +1,8 @@
 import BreadCumb from '../../components/Common/BreadCumb';
 import BlogDetails from '../../components/BlogDetails/BlogDetails';
 
-export default function BlogDetailsPage({ params }) {
+export default async function BlogDetailsPage(props) {
+    const params = await props.params;
     // If BlogDetails expects an id prop, pass it. Otherwise, remove as needed.
     return (
         <div>

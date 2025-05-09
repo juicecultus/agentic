@@ -1,7 +1,7 @@
 import BreadCumb from '../components/Common/BreadCumb';
 import BlogDetails from '../components/BlogDetails/BlogDetails';
 
-export default function BlogDetails() {
+export default function BlogDetailsPage() {
     return (
         <div>
             <BreadCumb

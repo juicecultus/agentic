@@ -4,7 +4,7 @@ import Process3 from '../components/Process/Process3';
 import Pricing1 from '../components/Pricing/Pricing1';
 import Brand4 from '../components/Brand/Brand4';
 
-export default function ServiceDetails() {
+export default function ServiceDetailsPage() {
     return (
         <div>
             <BreadCumb

@@ -2,7 +2,8 @@ import BreadCumb from '../../components/Common/BreadCumb';
 import TeamDetails from '../../components/TeamDetails/TeamDetails';
 import WhyChoose2 from '../../components/WhyChoose/WhyChoose2';
 
-export default function TeamDetailsPage({ params }) {
+export default async function TeamDetailsPage(props) {
+    const params = await props.params;
     // If TeamDetails expects an id prop, pass it. Otherwise, remove as needed.
     return (
         <div>

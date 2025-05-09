@@ -1,7 +1,7 @@
 import BreadCumb from '../components/Common/BreadCumb';
 import BlogSidebar from '../components/BlogSidebar/BlogSidebar';
 
-export default function BlogSidebar() {
+export default function BlogSidebarPage() {
     return (
         <div>
             <BreadCumb

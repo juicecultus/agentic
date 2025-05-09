@@ -30,7 +30,7 @@ const Project3 = () => {
                     <div className="row">
                         <div className="col-lg-6">
                             <ProjectCard2
-                                addClass="pm-project-item style-three mb-50 pf_fadeup"
+                                addclassName="pm-project-item style-three mb-50 pf_fadeup"
                                 img="/assets/images/marketing-agency/project/project1.jpg"
                                 cat1="Website"
                                 cat2="Landing Page"
@@ -39,7 +39,7 @@ const Project3 = () => {
                                 content="A daily schedule app designed to help users efficiently plan, organize, activities."
                             ></ProjectCard2>
                             <ProjectCard2
-                                addClass="pm-project-item style-three mb-50 pf_fadeup"
+                                addclassName="pm-project-item style-three mb-50 pf_fadeup"
                                 img="/assets/images/marketing-agency/project/project2.jpg"
                                 cat1="Website"
                                 cat2="Landing Page"
@@ -50,7 +50,7 @@ const Project3 = () => {
                         </div>
                         <div className="col-lg-6">
                         <ProjectCard2
-                                addClass="pm-project-item style-three mt-50 pf_fadeup"
+                                addclassName="pm-project-item style-three mt-50 pf_fadeup"
                                 img="/assets/images/marketing-agency/project/project3.jpg"
                                 cat1="Website"
                                 cat2="Landing Page"
@@ -59,7 +59,7 @@ const Project3 = () => {
                                 content="A production company delivering innovative solutions for film, video, and media."
                             ></ProjectCard2>                            
                         <ProjectCard2
-                                addClass="pm-project-item style-three mt-50 pf_fadeup"
+                                addclassName="pm-project-item style-three mt-50 pf_fadeup"
                                 img="/assets/images/marketing-agency/project/project4.jpg"
                                 cat1="Website"
                                 cat2="Landing Page"
