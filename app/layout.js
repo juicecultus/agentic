@@ -8,10 +8,13 @@ export const metadata = {
 import Header1 from './components/Header/Header1';
 import Footer from './components/Footer/Footer';
 
+import ThemeClient from './components/ThemeClient';
+
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <body>
+        <ThemeClient />
         <div className="main-page-area">
           <Header1 />
           {children}
